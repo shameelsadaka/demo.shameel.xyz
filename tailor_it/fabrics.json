@@ -1,0 +1,58 @@
+{
+	"fabrics":{
+		"J5-721212":{
+			"fabricId":"Fabric Name1",
+			"fabricName":"Fabric Name1",
+			"color":"Pink",
+			"thumbnail":"fab1.jpg",
+			"type":"Cotton/Lincn Mix",
+			"pattern":"Check",
+			"brand":"Linen"
+		},
+		"J5-123422":{
+			"fabricId":"Fabric Name1",
+			"fabricName":"Fabric Name1",
+			"color":"Pink",
+			"thumbnail":"fab1.jpg",
+			"type":"Cotton/Lincn Mix",
+			"pattern":"Check",
+			"brand":"Linen"
+		},
+		"J5-432145":{
+			"fabricId":"Fabric Name1",
+			"fabricName":"Fabric Name1",
+			"color":"Pink",
+			"thumbnail":"fab1.jpg",
+			"type":"Cotton/Lincn Mix",
+			"pattern":"Check",
+			"brand":"Linen"
+		},
+		"J5-623423":{
+			"fabricId":"Fabric Name1",
+			"fabricName":"Fabric Name1",
+			"color":"Pink",
+			"thumbnail":"fab1.jpg",
+			"type":"Cotton/Lincn Mix",
+			"pattern":"Check",
+			"brand":"Linen"
+		},
+		"J5-234523":{
+			"fabricId":"Fabric Name1",
+			"fabricName":"Fabric Name1",
+			"color":"Pink",
+			"thumbnail":"fab1.jpg",
+			"type":"Cotton/Lincn Mix",
+			"pattern":"Check",
+			"brand":"Linen"
+		},
+		"J5-934123":{
+			"fabricId":"Fabric Name1",
+			"fabricName":"Fabric Name1",
+			"color":"Pink",
+			"thumbnail":"fab1.jpg",
+			"type":"Cotton/Lincn Mix",
+			"pattern":"Check",
+			"brand":"Linen"
+		},
+	}
+}
