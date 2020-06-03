@@ -3,7 +3,7 @@
 		"J5-721212":{
 			"fabricId":"Fabric Name1",
 			"fabricName":"Fabric Name1",
-			"color":"Pink",
+			"color":"Blue",
 			"thumbnail":"fab1.jpg",
 			"type":"Cotton/Lincn Mix",
 			"pattern":"Check",
@@ -12,20 +12,20 @@
 		"J5-123422":{
 			"fabricId":"Fabric Name1",
 			"fabricName":"Fabric Name1",
-			"color":"Pink",
+			"color":"Red",
 			"thumbnail":"fab1.jpg",
 			"type":"Cotton/Lincn Mix",
-			"pattern":"Check",
-			"brand":"Linen"
+			"pattern":"Line",
+			"brand":"Henry"
 		},
 		"J5-432145":{
 			"fabricId":"Fabric Name1",
 			"fabricName":"Fabric Name1",
-			"color":"Pink",
+			"color":"Green",
 			"thumbnail":"fab1.jpg",
 			"type":"Cotton/Lincn Mix",
-			"pattern":"Check",
-			"brand":"Linen"
+			"pattern":"Dotted",
+			"brand":"Camelot"
 		},
 		"J5-623423":{
 			"fabricId":"Fabric Name1",
@@ -33,13 +33,13 @@
 			"color":"Pink",
 			"thumbnail":"fab1.jpg",
 			"type":"Cotton/Lincn Mix",
-			"pattern":"Check",
-			"brand":"Linen"
+			"pattern":"Line",
+			"brand":"Dunroven"
 		},
 		"J5-234523":{
 			"fabricId":"Fabric Name1",
 			"fabricName":"Fabric Name1",
-			"color":"Pink",
+			"color":"Grey",
 			"thumbnail":"fab1.jpg",
 			"type":"Cotton/Lincn Mix",
 			"pattern":"Check",
@@ -48,10 +48,10 @@
 		"J5-934123":{
 			"fabricId":"Fabric Name1",
 			"fabricName":"Fabric Name1",
-			"color":"Pink",
+			"color":"Blue",
 			"thumbnail":"fab1.jpg",
 			"type":"Cotton/Lincn Mix",
-			"pattern":"Check",
+			"pattern":"Plain",
 			"brand":"Linen"
 		}
 	}
